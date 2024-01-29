@@ -23,7 +23,7 @@ const BusinessSection = () => (
     <section id="features" className={layout.section}>
       <div className={`${layout.sectionInfo} mr-8 `}  >
         <h2 className={`${styles.heading2} text-black`}>
-          Exito Empresarial Con <span className='text-gradient'>Retroalimentación </span><span className='text-gradient'>Inteligente</span>
+          Éxito Empresarial Con <span className='text-gradient'>Retroalimentación </span><span className='text-gradient'>Inteligente</span>
         </h2>
         <p className={`${styles.paragraph} max-w-[470px] mt-5 text-black`}>
           Nuestro servicio se adapta a la necesidades del cliente, desde ayudar a despegar

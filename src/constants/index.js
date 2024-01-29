@@ -34,7 +34,7 @@ export const features = [
     {
       id: "feature-3",
       icon: send,
-      title: "Evaluación masivo de proyectos",
+      title: "Evaluación masiva de proyectos",
       content:
         "Nuestra inteligencia artificial evalúa las propuestas, proporciona insights clave y clasifica los proyectos según su viabilidad y potencial.",
     },
@@ -49,7 +49,7 @@ export const features = [
           link: "https://www.hoobank.com/content/",
         },
         {
-          name: "Como funciona",
+          name: "Cómo funciona",
           link: "https://www.hoobank.com/how-it-works/",
         },
         {
@@ -61,7 +61,7 @@ export const features = [
           link: "https://www.hoobank.com/explore/",
         },
         {
-          name: "Terminos y Condiciones",
+          name: "Términos y Condiciones",
           link: "https://www.hoobank.com/terms-and-services/",
         },
       ],
