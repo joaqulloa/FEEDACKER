@@ -4,10 +4,10 @@ import {discount, robot, canvas} from '../assets'
 import Button from './Button';
 
 const HeroSection = () => (
-    <section id="home" className={`flex md:flex-row flex-col ${styles.paddingY}`}>
-        <div className={`flex-1 ${styles.flexStart} flex-col xl:px-0`}>
+    <section id="home" className={`flex md:flex-row flex-col ${styles.paddingY} ${styles.flexCenter}`}>
+        <div className={`flex flex-1 ${styles.flexStart} flex-col xl:px-0 `}>
 
-            <div className='flex flex-row items-center py-[6px] px-4 bg-gray-300 rounded-[10px] mb-2'>
+            <div className='flex flex-row py-[6px] px-4 bg-gray-300 rounded-[10px] mb-2'>
                 <img src={discount} alt="discount" className='w-[32px] h-[32px]'/>
                 <p className={`${styles.paragraph} ml-2`}> Prueba nuestra <span className='text-gradient'>Versión </span><span className='text-gradient'>Beta</span> </p>
             </div>
